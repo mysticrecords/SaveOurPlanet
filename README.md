@@ -1,0 +1,2 @@
+# SaveOurPlanet
+Development of a virtual board game based on the principles of the popular board game Monopoly with a thematic focus on ‘caring for the planet’.   Developed in Java, this was a console application, designed to focus primarily on the logic and functionality of the application based on predefined requirements, with space to allow for originality to enhance the game play / user experience.
